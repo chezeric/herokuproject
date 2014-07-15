@@ -1,0 +1,21 @@
+{
+  "name": "herokuapp 11.07.21 PM",
+  "version": "0.0.0",
+  "homepage": "https://github.com/chezeric/herokuproject",
+  "authors": [
+    "Eric Livingston <chezeric@comcast.net>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "json": "*",
+    "sass-icon-fonts": "*",
+    "css-calc-mixin": "*"
+  }
+}
